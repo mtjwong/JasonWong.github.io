@@ -1,2 +1,2 @@
-# mtjwong.github.io
+# mtjwong.StartUpLandingPage.io
 Showcase coding projects
